@@ -1,41 +1,58 @@
 # 👋 Hi, I'm Sahil Mulani  
 
-🚀 **Aspiring Software Developer | Java | Web Development | AI Enthusiast**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=Aspiring+Software+Developer;Java+%7C+Web+Development+%7C+AI+Enthusiast;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)  
 
-I’m passionate about solving problems through **Java, Web Technologies, and Databases**.  
-Currently pursuing **B.Sc. Computer Science (2023–2026)** and building real-world projects to sharpen my skills.  
-
----
-
-## 🛠 Tech Stack
-- **Languages:** Java (Core & Advanced), C, PHP  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Databases:** PostgreSQL, MySQL (Basics)  
-- **Tools:** Git, VS Code, Eclipse  
+💡 I love solving problems through **Java, Web Technologies, and Databases**.  
+🎓 Currently pursuing **B.Sc. Computer Science (2023–2026)** and working on **real-world projects** to grow as a developer.  
 
 ---
 
-## 📌 Projects
-- 📚 **Library Management System** – Role-based system using PHP + PostgreSQL  
-- 🌐 **Web Development Mini Projects** (HTML, CSS, JS)  
-- 🤖 AI projects (in progress – from certification course)  
+## 🛠 Tech Stack  
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+
+**Web Development**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+**Tools & IDEs**  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)  
+![Dev-C++](https://img.shields.io/badge/Dev--C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 ---
 
-## 🎓 Certifications
-- AI Certification (Ongoing)  
+## 📌 Featured Projects  
+- 📚 **Library Management System** – Role-based system (PHP + PostgreSQL)  
+- 🌐 **Mini Web Projects** – Landing pages & interactive sites (HTML, CSS, JS)  
+- 🤖 **AI Projects** – Building intelligent apps from my certification course (ongoing)  
 
 ---
 
-## 📊 GitHub Stats
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mulani-Sahil&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mulani-Sahil&layout=compact&theme=radical)  
+## 🎓 Certifications  
+- 🧠 **Artificial Intelligence Certification** (Ongoing)  
 
 ---
 
-## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/sahilmulani)  
-- [GitHub](https://github.com/Mulani-Sahil)  
+## 📊 GitHub Highlights  
+✅ Committed to **consistent learning & building**  
+✅ Exploring **Open Source & Collaboration opportunities**  
 
-✨ *“Always learning, always building.”* ✨
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilmulani)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mulani-Sahil)  
+
+---
+
+✨ *“Code. Learn. Share. Repeat.”* ✨  
